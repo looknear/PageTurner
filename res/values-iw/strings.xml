@@ -108,40 +108,40 @@
 
     <!-- Not yet translated -->
 
-    <string name="feed_failed">Could not contact the site. Please try again.</string>
-    <string name="book_failed">Could not download the book. Please try again.</string>
+    <string name="feed_failed">לא ניתן להתחבר לאתר. נסה שנית מאוחר יותר</string>
+    <string name="book_failed">לא ניתן להוריד את הספר. נסה שנית מאוחר יותר</string>
 
-    <string name="custom_site">My custom OPDS sites</string>
-    <string name="add_site">Add custom site</string>
-    <string name="edit_site">Edit custom site</string>
+    <string name="custom_site">אתרי OPDS שלי</string>
+    <string name="add_site">הוסף אתר פרטי</string>
+    <string name="edit_site">ערוך אתר פרטי</string>
     <string name="add_site_header">What kind of site would you like to add?</string>
     <string name="calibre_server">Calibre content server</string>
     <string name="cops_server">COPS server</string>
     <string name="c2opds_server">Calibre2OPDS</string>
     <string name="generic_server">Generic OPDS site</string>
-    <string name="save">Save changes</string>
+    <string name="save">שמור שינויים</string>
 
     <string name="custom_site_desc">Your own OPDS / Calibre sites. You can add sites from the Preferences screen.</string>
-    <string name="site_name">Site name</string>
-    <string name="site_url">Site URL</string>
-    <string name="site_desc">Description</string>
-    <string name="site_username">Username</string>
-    <string name="site_password">Password</string>
+    <string name="site_name">שם האתר</string>
+    <string name="site_url">כתובת האתר</string>
+    <string name="site_desc">תיאור</string>
+    <string name="site_username">שם משתמש</string>
+    <string name="site_password">סיסמה</string>
 
-    <string name="msg_name_blank">Please fill in a name.</string>
-    <string name="msg_url_blank">Please fill in a URL.</string>
+    <string name="msg_name_blank">נא הקלד את שמך</string>
+    <string name="msg_url_blank">נא להקליד כתובת</string>
 
-    <string name="edit">Edit</string>
+    <string name="edit">עריכה</string>
 
     <string name="no_custom_sites">You don\'t have any custom sites defined. Please add some in the preferences.</string>
-    <string name="text_to_speech">Read out loud (TTS)</string>
+    <string name="text_to_speech">קריאה בקול באנגלית (TTS)</string>
 
     <string name="init_tts">Initializing TTS…\nPlease wait.</string>
     <string name="tts_failed">TTS Failed.</string>
 
     <string name="search_library">Search library</string>
     <string name="no_sync_points">You don\'t have any cloud-sync points stored yet.\nSync points are stored automatically when you leave PageTurner.</string>
-    <string name="no_new_books_found">The scan did not find any new books.</string>
+    <string name="no_new_books_found">הסריקה לא מצאה ספרים</string>
 
     <string name="next_page">Next page…</string>
     <string name="prev_page">Previous page…</string>
